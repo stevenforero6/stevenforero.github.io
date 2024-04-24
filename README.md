@@ -8,18 +8,18 @@
     <!-- Agregar enlace a la hoja de estilos de Bootstrap -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <style>
-        /* Estilos adicionales */
+        
         .fila-resaltada {
-            background-color: #f8f9fa; /* Gris claro */
+            background-color: #f8f9fa; 
         }
         .thead-dark th {
-            background-color: #343a40; /* Gris oscuro */
-            color: white; /* Texto blanco */
+            background-color: #343a40; 
+            color: white; 
         }
         iframe {
-            width: 100%; /* Ocupa todo el ancho disponible */
-            height: 500px; /* Altura fija */
-            border: none; /* Elimina el borde del iframe */
+            width: 100%; 
+            height: 500px;
+            border: none; 
         }
     </style>
 </head>
