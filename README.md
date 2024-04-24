@@ -9,7 +9,6 @@
     <link href="estilo.CSS" rel="stylesheet">
 </head>
 <body>
-    <title>Título de la página</title>
     <div class="container mt-5">
         <table class="table table-bordered table-striped">
             <thead class="thead-dark">
