@@ -7,21 +7,7 @@
     <title>Título de la página</title>
     <!-- Agregar enlace a la hoja de estilos de Bootstrap -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <style>
-        
-        .fila-resaltada {
-            background-color: #f8f9fa; 
-        }
-        .thead-dark th {
-            background-color: #343a40; 
-            color: white; 
-        }
-        iframe {
-            width: 100%; 
-            height: 500px;
-            border: none; 
-        }
-    </style>
+    
 </head>
 <body>
     <div class="container mt-5">
